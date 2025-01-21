@@ -1,4 +1,4 @@
 {
-  "version": "0.85",
+  "version": "0.86",
   "link": "https://raw.githubusercontent.com/GodEyeKing/GG/main/libGVoicePlugin.so"
 }
